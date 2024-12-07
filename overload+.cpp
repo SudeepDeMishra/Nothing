@@ -61,7 +61,6 @@ int main()
     
     sum=A+B;
     cout<<"A+B matrix is\n";
-    sum.displayMatrix();
-    
+    sum.displayMatrix();    
     return 0;
 }
